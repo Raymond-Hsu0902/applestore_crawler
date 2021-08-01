@@ -16,3 +16,5 @@ bs4
 gspread==3.7.0
 gspread_dataframe
 lxml
+webdriver_manager
+tqdm 
